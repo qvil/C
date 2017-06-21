@@ -16,6 +16,6 @@ void func(int *b, int n)
 {
     int i;
     for (i = 0; i < n; i++) {
-        *(b + 2) = *(b + 1) + 5;
+        *(b + 2) = *(b + i) + 5;
     }
 }
