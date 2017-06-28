@@ -10,6 +10,11 @@
 ## 예제
 `examples`폴더 참고
 
+>[tutorialspoint - playground](https://www.tutorialspoint.com/compile_c_online.php)
+
+## 해설
+[여기](https://qvil.github.io/tags/#중등교사임용시험)에서 자세한 해설을 볼 수 있습니다.
+
 ## ts_lib
 >내가 이런걸 언제 만들었지? 나도 기억 안나는 라이브러리
 
